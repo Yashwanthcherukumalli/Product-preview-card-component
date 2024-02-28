@@ -7,7 +7,9 @@
 }
 body{
     background-color: var(--Cream);
-
+    display:flex;
+    justify-content:center;
+    align-items: center;
 }
 .container{
     height: 600px;
