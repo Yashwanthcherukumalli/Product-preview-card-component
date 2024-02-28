@@ -12,20 +12,20 @@ body{
     align-items: center;
 }
 .container{
-    height: 700px;
+    height: 600px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .image img{
     width: 500px;
-    height: 700px;
+    height: 600px;
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
 }
 .text{
     width: 500px;
-    height: 700px;
+    height: 600px;
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;
     background-color: white;
