@@ -84,6 +84,12 @@ body{
 }
 
 @media screen and (min-width:370px) and (max-width: 740px) {
+    body{
+        background-color: var(--Cream);
+        display:flex;
+        justify-content:center;
+        align-items: center;
+    }
     .container{
         display: flex;
         flex-direction: column;
